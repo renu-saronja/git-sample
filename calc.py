@@ -6,5 +6,4 @@ def subtract(x,y):
 def multiply(x,y):
 	pass
 def divide(x,y):
-	return x/y
-print x ,y 
+pass
